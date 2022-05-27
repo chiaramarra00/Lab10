@@ -34,5 +34,4 @@ public class Flow {
 		return "Flow [day=" + day + ", flow=" + flow + ", river=" + river + "]";
 	}
 
-	
 }
